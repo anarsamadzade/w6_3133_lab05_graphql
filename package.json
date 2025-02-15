@@ -1,0 +1,27 @@
+{
+  "name": "w6_3133_lab05_graphql",
+  "version": "1.0.0",
+  "description": "w6_3133_lab05_graphql",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anarsamadzade/w6_3133_lab05_graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anarsamadzade/w6_3133_lab05_graphql/issues"
+  },
+  "homepage": "https://github.com/anarsamadzade/w6_3133_lab05_graphql#readme",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "express": "^4.21.2",
+    "graphql": "^16.10.0",
+    "mongoose": "^8.10.1"
+  }
+}
